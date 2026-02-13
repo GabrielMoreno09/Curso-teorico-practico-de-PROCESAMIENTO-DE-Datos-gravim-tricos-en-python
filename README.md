@@ -1,5 +1,6 @@
 
- 
+ <img width="1080" height="1080" alt="Curso teórico-práctico de procesamiento de datos gravimétricos para geólogos y geofísicos" src="https://github.com/user-attachments/assets/7fe703da-f5e6-4dfd-8395-cf169cb0f349" />
+
  
  1.      Conceptos clave
 1.1 Efectos del planeta sobre la gravedad
